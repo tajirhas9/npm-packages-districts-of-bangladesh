@@ -1,6 +1,6 @@
 {
   "name": "districts-of-bangladesh",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Package for getting list of all the divisions or districts of Bangladesh",
   "main": "index.js",
   "scripts": {
