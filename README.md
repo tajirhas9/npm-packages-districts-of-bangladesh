@@ -13,20 +13,28 @@
 
 ### Get all the divisions as list:
 
-`import {GetAllDivisions} from 'districts-of-bangladesh'`
-`var divisions = GetallDivisions()`
+```
+import {GetAllDivisions} from 'districts-of-bangladesh'
+var divisions = GetallDivisions()
+```
 
 ### Get all the districts ( unfiltered ):
 
-`import {GetDistrictsUnfiltered} from 'districts-of-bangladesh'`
-`var districts = GetDistrictsUnfiltered()`
+```
+import {GetDistrictsUnfiltered} from 'districts-of-bangladesh'
+var districts = GetDistrictsUnfiltered()
+```
 
 ### Get districts under certain division:
 
-`import {GetDistrictsFiltered} from 'districts-of-bangladesh'`
-`var districts = GetDistrictsFiltered("Chittgong")`
+```
+import {GetDistrictsFiltered} from 'districts-of-bangladesh'
+var districts = GetDistrictsFiltered("Chittgong")
+```
 
 ### Check if a given string is division or not:
 
-`import {IsADivision} from 'districts-of-bangladesh`
-`bool verdict = IsADivision("Chittagong")`
+```
+import {IsADivision} from 'districts-of-bangladesh
+bool verdict = IsADivision("Chittagong")
+```
