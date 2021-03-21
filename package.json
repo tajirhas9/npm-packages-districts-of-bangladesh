@@ -14,5 +14,9 @@
     "Search"
   ],
   "author": "Syed Tajir Hasnain <tajircuet@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tajirhas9/npm-packages-districts-of-bangladesh.git"
+  }
 }
