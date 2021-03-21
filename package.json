@@ -1,7 +1,7 @@
 {
   "name": "districts-of-bangladesh",
-  "version": "1.0.0",
-  "description": "Package for getting list of all the districts of Bangladesh",
+  "version": "1.0.1",
+  "description": "Package for getting list of all the divisions or districts of Bangladesh",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
