@@ -1,10 +1,5 @@
 # Districts-of-Bangladesh
 
-## Table of contentd
-
-- [Installation] (#install)
-- [Usage] (#usage)
-
 ## Installation
 
 `npm i districts-of-bangladesh`
